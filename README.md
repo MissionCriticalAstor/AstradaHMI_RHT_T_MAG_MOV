@@ -1,4 +1,4 @@
-Program Astraada HMI do wizualizacji danych z czujników firmy ELA Innovation (Blue PUCK RHT, Blue PUCK T, Blue PUCK MAG, Blue PUCK MOV w trybie ANG). Program:
+Program Astraada HMI do wizualizacji na modelu AS46TFT04xx (480x272), danych z czujników firmy ELA Innovation (Blue PUCK RHT, Blue PUCK T, Blue PUCK MAG, Blue PUCK MOV w trybie ANG). Program:
   - odbiera dane wysyłane protokołem MQTT
   - wyświetla dane pomiarowe czujników w zależności od modelu
   - wyświetla moc sygnału (rssi) czujników
